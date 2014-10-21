@@ -6,7 +6,6 @@ body {
 	font-size: 18px;
 	font-weight: 300;
 	background-image: url('../img/background.jpg');
-	background-repeat: no-repeat; 
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -92,7 +91,7 @@ dd {
 	padding: 1em;
 }
 
-#pagefooter {
+footer {
 	padding: 1em;
 	background-color: #FC892F;
 	border-top-style: solid;
