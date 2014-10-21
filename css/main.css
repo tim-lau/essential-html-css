@@ -10,7 +10,7 @@ body {
 	background-attachment: fixed;
 }
 
-a:link, a:visited{ 
+a:link, a:visited { 
 	text-decoration: none;
 	color: #0000AA;
 }
@@ -40,7 +40,6 @@ h3 {
 	color: #505050;
 }
 
-
 main {
 	margin-left: 30%;
 	margin-top: 20px;
@@ -59,7 +58,6 @@ header {
 	color: #FFFFFF;
 }
 
-
 #menu {
 	padding: 1em;
 	background: rgba(207, 205, 140, 0.5);
@@ -75,7 +73,6 @@ dd {
 	margin-left: 1em;
 	margin-bottom: 1em;
 }
-
 
 #tagline {
 	font-size: 120%;
